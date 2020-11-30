@@ -1,2 +1,2 @@
-# -ARA0062
+# ARA0062
 Arquivos de composição do trabalho final para a disciplina DESENV. WEB EM HTML5, CSS, JAVASCRIPT E PHP Universidade Estácio de Sá
